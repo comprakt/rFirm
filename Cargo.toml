@@ -1,0 +1,13 @@
+[package]
+name = "rfirm"
+version = "0.0.0"
+authors = [
+    "Philip Krones <hello@philkrones.com>",
+    "Henning Dieterichs <henning.dieterichs@live.de>",
+    "Joshua Bachmeier <joshua@bachmeier.cc>",
+    "Christian Schwarz <me@cschwarz.com>",
+    "Reiner Dolp <hallo@reinerdolp.com>",
+]
+edition = "2018"
+
+[dependencies]
