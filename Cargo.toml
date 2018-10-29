@@ -11,3 +11,6 @@ authors = [
 edition = "2018"
 
 [dependencies]
+
+[build-dependencies]
+bindgen = "0.42"
